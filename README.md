@@ -1,5 +1,11 @@
 # @xpell/agent-channels
 
+## 2.0.8 release candidate
+
+Target publication date: **13 November 2026**; this candidate has not been published.
+Use the coordinated 2.0.8 runtime dependencies. See [CHANGELOG](./CHANGELOG.md)
+for package changes and qualification limits; [LICENSE](./LICENSE) contains the MIT terms.
+
 Official provider Channel adapters for `@xpell/agent`.
 
 The package provides text-only `TelegramChannel` and `WhatsAppChannel`
